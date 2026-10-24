@@ -1,6 +1,6 @@
 # AWS Cloud-Native ATS CV Generator & Analyzer
 
-![Architecture Diagram](images/ATSArchDesign.png)
+![Architecture Diagram](/Fully-serverless-AWS-Cloud-Native-ATS-CVs-Generation-Application/images/ATSArchDesign.png)
 
 ## 📌 Project Overview
 This project is an AWS cloud-native application designed to generate Applicant Tracking System (ATS) friendly CVs and analyze them against specific Job Descriptions (JD). 
